@@ -37,6 +37,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../AppiumAutomationTest1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaAppiumAutomation" />
@@ -83,22 +88,22 @@
       <screen x="0" y="23" width="1280" height="742" />
     </state>
     <state x="104" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.742@0.23.1280.742" timestamp="1575221094066" />
-    <state width="1233" height="198" key="GridCell.Tab.0.bottom" timestamp="1575897045765">
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom" timestamp="1575899330998">
       <screen x="0" y="23" width="1280" height="742" />
     </state>
-    <state width="1233" height="198" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1575897045765" />
-    <state width="1233" height="198" key="GridCell.Tab.0.center" timestamp="1575897045762">
+    <state width="1238" height="198" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1575899330998" />
+    <state width="1238" height="198" key="GridCell.Tab.0.center" timestamp="1575899330997">
       <screen x="0" y="23" width="1280" height="742" />
     </state>
-    <state width="1233" height="198" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1575897045762" />
-    <state width="1233" height="198" key="GridCell.Tab.0.left" timestamp="1575897045761">
+    <state width="1238" height="198" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1575899330997" />
+    <state width="1238" height="198" key="GridCell.Tab.0.left" timestamp="1575899330996">
       <screen x="0" y="23" width="1280" height="742" />
     </state>
-    <state width="1233" height="198" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1575897045761" />
-    <state width="1233" height="198" key="GridCell.Tab.0.right" timestamp="1575897045764">
+    <state width="1238" height="198" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1575899330996" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right" timestamp="1575899330997">
       <screen x="0" y="23" width="1280" height="742" />
     </state>
-    <state width="1233" height="198" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1575897045764" />
+    <state width="1238" height="198" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1575899330997" />
     <state x="128" y="23" key="SettingsEditor" timestamp="1575805004230">
       <screen x="0" y="23" width="1280" height="742" />
     </state>
