@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d4000b1-608b-4b64-833d-8c9e438bdb07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaAppiumAutomation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AppiumAutomationTest1" />
+  </component>
+  <component name="ProjectId" id="1UOHdLc9jtLUsFESDM3v3qEg1Ku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaAppiumAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d4000b1-608b-4b64-833d-8c9e438bdb07" name="Default Changelist" comment="" />
+      <created>1575220808090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575220808090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575221094066">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="104" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.742@0.23.1280.742" timestamp="1575221094066" />
+    <state width="1233" height="198" key="GridCell.Tab.0.bottom" timestamp="1575897045765">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1233" height="198" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1575897045765" />
+    <state width="1233" height="198" key="GridCell.Tab.0.center" timestamp="1575897045762">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1233" height="198" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1575897045762" />
+    <state width="1233" height="198" key="GridCell.Tab.0.left" timestamp="1575897045761">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1233" height="198" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1575897045761" />
+    <state width="1233" height="198" key="GridCell.Tab.0.right" timestamp="1575897045764">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state width="1233" height="198" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1575897045764" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1575805004230">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.742@0.23.1280.742" timestamp="1575805004230" />
+    <state x="366" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575222241110">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="366" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1280.742@0.23.1280.742" timestamp="1575222241110" />
+  </component>
+</project>
