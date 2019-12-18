@@ -17,7 +17,8 @@ public class FirstTest {
 
     public void setUp() throws Exception
     {
-        DesiredCapabilities capabilities = new DesiredCapabilities();
+        DesiredCapabilities capabilities;
+        capabilities = new DesiredCapabilities();
 
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("deviceName","AndroidTestDevice");
@@ -25,9 +26,9 @@ public class FirstTest {
         capabilities.setCapability("automationName","Appium");
         capabilities.setCapability("appPackage","org.wikipedia");
         capabilities.setCapability("appActivity",".main.MainActivity");
-        capabilities.setCapability("app","/Users/romanvoblik/Desktop/JavaAppiumAutomation/apks/org.wikipedia.apk");
+        capabilities.setCapability("app","/Users/romanvoblik/Desktop/AppiumAutomationTest1/JavaAppiumAutomation/apks/org.wikipedia.apk");
 
-        driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
+       driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
 
     }
     @After
