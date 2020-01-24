@@ -32,9 +32,10 @@ public class Ex7 {
         capabilities.setCapability("appPackage", "org.wikipedia");
         capabilities.setCapability("appActivity", ".main.MainActivity");
         capabilities.setCapability("app", "/Users/romanvoblik/Desktop/Tests/JavaAppiumAutomation/apks/org.wikipedia.apk");
+        capabilities.setCapability("orientation","PORTRAIT");
 
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
-        driver.rotate(ScreenOrientation.PORTRAIT);
+        //driver.rotate(ScreenOrientation.PORTRAIT);
 
 
         /*waitForElementAndClick(  // пропускаем страницу с настройками
@@ -46,11 +47,9 @@ public class Ex7 {
 
     @After
     public void tearDown() {
-        driver.rotate(ScreenOrientation.PORTRAIT);
         driver.quit();
 
     }
-
 
     @Test
     public void testChangeScreenOrientationOnSearchResults() {
